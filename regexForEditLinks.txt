@@ -1,0 +1,4 @@
+
+
+.*?href="(eEditEquipment\.aspx\?EditId=(\d+?)&amp;EName=(.+?))".*?\r\n.*?<\/td><td>.*?<\/td><td>(.*?)<\/td>
+\nhttps://restore365.net/Enterprise/Module/Equipment/\1,\t\2,\t\3,\t\4
