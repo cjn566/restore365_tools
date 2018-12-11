@@ -1,0 +1,6 @@
+  {
+    name:"RestorePlus",
+    version:"1.0",
+    description:"Make restore365 suck less",
+    manifest_version:1
+  }
